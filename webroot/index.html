@@ -2,7 +2,7 @@
 <html>
   <head>
     <script>
-      var ws = new WebSocket("ws://localhost:3000/my-websocket-url");
+      var ws = new WebSocket("ws://127.0.0.1:3000/my-websocket-url");
 
       ws.onopen = function(evt) {
         console.log("WebSocket open event", evt);
