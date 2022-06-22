@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/aarong/sauce-connect-proxy-problem#readme",
   "dependencies": {
-    "async": "^3.1.1",
+    "async": "^3.2.2",
     "express": "^4.16.4",
     "sauce-connect-launcher": "^1.2.4",
     "ws": "^6.0.0"
